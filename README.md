@@ -40,7 +40,7 @@ Når du er færdig, skal du kunne finde MCP-programmet (`MssqlMcp.exe`) et sted 
 Eksempel på sti:
 - `C:\MCP_HTTP\dotnet\MssqlMcp\bin\Debug\net8.0\MssqlMcp.exe`
 
-> Tip: Hvis du får en **Release**-version, så brug den (mere stabil end Debug).
+
 
 ---
 
